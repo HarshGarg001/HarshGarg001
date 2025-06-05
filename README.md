@@ -46,18 +46,7 @@ A proof-of-concept project designed to demonstrate how keystrokes can be monitor
 - Automatic logging to `.txt` files
 - Emphasis on awareness and responsible coding practices
 
-➡️ [View Repository](https://github.com/HarshGarg001/keylogger)
-
----
-
-### 📂 Excel Automation Script  
-**Tools:** Python, `openpyxl`  
-This project automates Excel file editing, including:
-- Reading and writing Excel files programmatically
-- Data formatting and manipulation
-- Useful for speeding up repetitive financial or tabular data tasks
-
-➡️ [View Repository](https://github.com/HarshGarg001/Excel-Automation)
+➡️ [View Repository]([https://github.com/HarshGarg001/Key-Logger])
 
 ---
 
