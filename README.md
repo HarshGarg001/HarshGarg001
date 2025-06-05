@@ -46,7 +46,7 @@ A proof-of-concept project designed to demonstrate how keystrokes can be monitor
 - Automatic logging to `.txt` files
 - Emphasis on awareness and responsible coding practices
 
-➡️ [View Repository]([https://github.com/HarshGarg001/Key-Logger])
+➡️ [View Repository](https://github.com/HarshGarg001/Key-Logger)
 
 ---
 
